@@ -1,0 +1,68 @@
+
+Thank you for using Miner Airlines, Minnie Mouse!
+
+---------------------------------------------------------------------------------------
+Orlando International Airport (ORL) --> Los Angeles International Airport (LAX)
+7/20/2023 3:00 PM --> 7/20/2023 4:41 PM
+
+Ticket(s) type: Main Class
+Seat(s) purchased: 8
+MinerAirlines Fee: $9.15
+Security Fee: $44.80
+Senior Discount: $22.90
+Money Saved: $22.90
+Total price: $3836.11
+Transaction confirmation number: 230140943013
+
+---------------------------------------------------------------------------------------
+Toronto Pearson International Airport (YYZ) --> El Paso International Airport (ELP)
+8/15/2023 12:05 PM --> 8/15/2023 1:44 PM
+
+Ticket(s) type: Main Class
+Seat(s) purchased: 8
+MinerAirlines Fee: $9.15
+Security Fee: $44.80
+Senior Discount: $64.75
+Money Saved: $64.75
+Total price: $10755.12
+Transaction confirmation number: 238180086105
+
+---------------------------------------------------------------------------------------
+El Paso International Airport (ELP) --> Boston Logan International Airport (BOS)
+4/25/2023 12:05 PM --> 4/25/2023 6:40 PM
+
+Ticket(s) type: Main Class
+Seat(s) purchased: 1
+MinerAirlines Fee: $9.15
+Security Fee: $5.60
+Senior Discount: $7.55
+Money Saved: $7.55
+Total price: $178.29
+Transaction confirmation number: 23510948766
+
+---------------------------------------------------------------------------------------
+Hartsfield-Jackson Atlanta International Airport (ATL) --> El Paso International Airport (ELP)
+9/7/2023 9:40 PM --> 9/7/2023 10:41 PM
+
+Ticket(s) type: Main Class
+Seat(s) purchased: 2
+MinerAirlines Fee: $9.15
+Security Fee: $11.20
+Senior Discount: $14.10
+Money Saved: $14.10
+Total price: $610.69
+Transaction confirmation number: 236213639007
+
+---------------------------------------------------------------------------------------
+Logan International Airport (BOS) --> Los Angeles International Airport (LAX)
+6/12/2023 8:20 AM --> 6/12/2023 10:46 AM
+
+Ticket(s) type: Main Class
+Seat(s) purchased: 1
+MinerAirlines Fee: $9.15
+Security Fee: $5.60
+Senior Discount: $8.95
+Money Saved: $8.95
+Total price: $207.62
+Transaction confirmation number: 23083979600
+

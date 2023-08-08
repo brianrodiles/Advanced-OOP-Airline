@@ -1,0 +1,29 @@
+
+Thank you for using Miner Airlines, Mickey Mouse!
+
+---------------------------------------------------------------------------------------
+El Paso International Airport (ELP) --> Dallas/Ft. Worth International Airport (DFW)
+6/8/2023 8:20 AM --> 6/8/2023 10:54 AM
+
+Ticket(s) type: Main Class
+Seat(s) purchased: 6
+MinerAirlines Fee: $9.15
+Security Fee: $33.60
+Senior Discount: $22.70
+Money Saved: $45.40
+Total price: $2707.17
+Transaction confirmation number: 23276971659
+
+---------------------------------------------------------------------------------------
+Orlando International Airport (ORL) --> Los Angeles International Airport (LAX)
+7/25/2023 5:25 AM --> 7/25/2023 7:06 AM
+
+Ticket(s) type: Business Class
+Seat(s) purchased: 8
+MinerAirlines Fee: $9.15
+Security Fee: $44.80
+Senior Discount: $50.90
+Money Saved: $101.80
+Total price: $8002.44
+Transaction confirmation number: 230148412068
+

@@ -1,0 +1,146 @@
+
+Thank you for using Miner Airlines, Jose Espinoza Gonzalez!
+
+---------------------------------------------------------------------------------------
+El Paso International Airport (ELP) --> Harry Reid International Airport (LAS)
+4/18/2023 6:45 PM --> 4/18/2023 7:22 PM
+
+Ticket(s) type: Main Class
+Seat(s) purchased: 7
+MinerAirlines Fee: $9.15
+Security Fee: $39.20
+Senior Discount: $26.50
+Money Saved: $424.00
+Total price: $863.13
+Transaction confirmation number: 23366964
+
+---------------------------------------------------------------------------------------
+El Paso International Airport (ELP) --> Los Angeles International Airport (LAX)
+9/1/2023 12:05 PM --> 9/1/2023 12:58 PM
+
+Ticket(s) type: Main Class
+Seat(s) purchased: 1
+MinerAirlines Fee: $9.15
+Security Fee: $5.60
+Senior Discount: $7.55
+Money Saved: $120.80
+Total price: $56.78
+Transaction confirmation number: 230204301023
+
+---------------------------------------------------------------------------------------
+Toronto Pearson International Airport (YYZ) --> El Paso International Airport (ELP)
+5/24/2023 6:45 PM --> 5/24/2023 8:24 PM
+
+Ticket(s) type: Main Class
+Seat(s) purchased: 1
+MinerAirlines Fee: $9.15
+Security Fee: $5.60
+Senior Discount: $59.55
+Money Saved: $952.80
+Total price: $286.27
+Transaction confirmation number: 23755603258
+
+---------------------------------------------------------------------------------------
+Cancun International Airport (CUN) --> El Paso International Airport (ELP)
+6/17/2023 5:25 AM --> 6/17/2023 6:35 AM
+
+Ticket(s) type: Main Class
+Seat(s) purchased: 8
+MinerAirlines Fee: $9.15
+Security Fee: $44.80
+Senior Discount: $44.15
+Money Saved: $706.40
+Total price: $1630.52
+Transaction confirmation number: 23091713436
+
+---------------------------------------------------------------------------------------
+Logan International Airport (BOS) --> El Paso International Airport (ELP)
+6/3/2023 12:05 PM --> 6/3/2023 6:40 PM
+
+Ticket(s) type: Main Class
+Seat(s) purchased: 5
+MinerAirlines Fee: $9.15
+Security Fee: $28.00
+Senior Discount: $6.10
+Money Saved: $97.60
+Total price: $179.32
+Transaction confirmation number: 23570076530
+
+---------------------------------------------------------------------------------------
+Logan International Airport (BOS) --> Los Angeles International Airport (LAX)
+9/30/2023 12:05 PM --> 9/30/2023 2:31 PM
+
+Ticket(s) type: Business Class
+Seat(s) purchased: 6
+MinerAirlines Fee: $9.15
+Security Fee: $33.60
+Senior Discount: $28.40
+Money Saved: $454.40
+Total price: $791.69
+Transaction confirmation number: 231248506575
+
+---------------------------------------------------------------------------------------
+El Paso International Airport (ELP) --> John F. Kennedy International Airport (JFK)
+6/20/2023 8:20 AM --> 6/20/2023 2:36 PM
+
+Ticket(s) type: Business Class
+Seat(s) purchased: 6
+MinerAirlines Fee: $9.15
+Security Fee: $33.60
+Senior Discount: $47.55
+Money Saved: $760.80
+Total price: $1291.91
+Transaction confirmation number: 23595457137
+
+---------------------------------------------------------------------------------------
+Los Angeles International Airport (LAX) --> Boston Logan International Airport (BOS)
+8/2/2023 3:00 PM --> 8/2/2023 11:26 PM
+
+Ticket(s) type: Main Class
+Seat(s) purchased: 2
+MinerAirlines Fee: $9.15
+Security Fee: $11.20
+Senior Discount: $9.10
+Money Saved: $145.60
+Total price: $108.41
+Transaction confirmation number: 230160747506
+
+---------------------------------------------------------------------------------------
+El Paso International Airport (ELP) --> Heathrow Airport (LHR)
+5/27/2023 12:05 PM --> 5/28/2023 5:50 AM
+
+Ticket(s) type: Main Class
+Seat(s) purchased: 4
+MinerAirlines Fee: $9.15
+Security Fee: $22.40
+Senior Discount: $51.10
+Money Saved: $817.60
+Total price: $984.70
+Transaction confirmation number: 23459537819
+
+---------------------------------------------------------------------------------------
+John F. Kennedy International Airport (JFK) --> El Paso International Airport (ELP)
+4/29/2023 5:25 AM --> 4/29/2023 7:41 AM
+
+Ticket(s) type: Main Class
+Seat(s) purchased: 2
+MinerAirlines Fee: $9.15
+Security Fee: $11.20
+Senior Discount: $7.65
+Money Saved: $122.40
+Total price: $98.56
+Transaction confirmation number: 23616809138
+
+---------------------------------------------------------------------------------------
+Los Angeles International Airport (LAX) --> El Paso International Airport (ELP)
+7/14/2023 5:25 AM --> 7/14/2023 8:18 AM
+
+Ticket(s) type: Main Class
+Seat(s) purchased: 1
+MinerAirlines Fee: $9.15
+Security Fee: $5.60
+Senior Discount: $9.20
+Money Saved: $147.20
+Total price: $63.92
+Transaction confirmation number: 230130959641
+

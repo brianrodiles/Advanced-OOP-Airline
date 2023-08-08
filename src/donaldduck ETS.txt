@@ -1,0 +1,55 @@
+
+Thank you for using Miner Airlines, Donald Duck!
+
+---------------------------------------------------------------------------------------
+Los Angeles International Airport (LAX) --> El Paso International Airport (ELP)
+4/27/2023 9:40 PM --> 4/28/2023 12:33 AM
+
+Ticket(s) type: Main Class
+Seat(s) purchased: 8
+MinerAirlines Fee: $9.15
+Security Fee: $44.80
+Senior Discount: $23.85
+Money Saved: $23.85
+Total price: $3990.80
+Transaction confirmation number: 2321361603
+
+---------------------------------------------------------------------------------------
+Los Angeles International Airport (LAX) --> El Paso International Airport (ELP)
+7/24/2023 6:45 PM --> 7/24/2023 9:38 PM
+
+Ticket(s) type: Business Class
+Seat(s) purchased: 2
+MinerAirlines Fee: $9.15
+Security Fee: $11.20
+Senior Discount: $46.45
+Money Saved: $46.45
+Total price: $1940.87
+Transaction confirmation number: 23614622976
+
+---------------------------------------------------------------------------------------
+El Paso International Airport (ELP) --> John F. Kennedy International Airport (JFK)
+6/12/2023 8:20 AM --> 6/12/2023 2:36 PM
+
+Ticket(s) type: Business Class
+Seat(s) purchased: 2
+MinerAirlines Fee: $9.15
+Security Fee: $11.20
+Senior Discount: $29.20
+Money Saved: $29.20
+Total price: $1233.45
+Transaction confirmation number: 23483381445
+
+---------------------------------------------------------------------------------------
+Chicago International Airport (ORD) --> El Paso International Airport (ELP)
+9/7/2023 5:25 AM --> 9/7/2023 7:21 AM
+
+Ticket(s) type: Main Class
+Seat(s) purchased: 1
+MinerAirlines Fee: $9.15
+Security Fee: $5.60
+Senior Discount: $6.80
+Money Saved: $6.80
+Total price: $164.49
+Transaction confirmation number: 230213489435
+
